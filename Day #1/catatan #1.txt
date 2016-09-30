@@ -1,0 +1,21 @@
+- registrasi github.com
+- kirim email ke:
+   sofyan.thayf@kharisma.ac.id
+   Subject: PWEB161_51014xxx
+   isi:
+    nama Lengkap: ...
+    nama Facebook: ...
+    nama GitHub: ...
+- buat repository, beri nama:
+   PWEB161_<nim>
+   contoh: PWEB161_51014001
+- invite SOfyan Thayf sebagai collaborator
+
+codeacademy.com
+- registrasi
+- ikuti materi dan instruksi 1-13
+- screenshoot halaman 'congratulation' kirim ke sofyan.thayf@kharisma.ac.id
+Subject: 
+PWEB161_51014xxx codeacademy
+
+- download dan install software editor: Sublime Text 3
