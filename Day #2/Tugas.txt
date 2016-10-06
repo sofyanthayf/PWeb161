@@ -1,0 +1,9 @@
+- cari minimal 5 lagu anak
+- cari gambar untuk setiap lagu
+- buat halaman index.html berisi daftar lagu
+- buat halaman html untuk masing-masing lagu, berisi syair dan gambar untuk lagu
+- desain halaman secantik mungkin (tanpa CSS)
+- ada link kembali ke halaman index dari setiap lagu
+- judul lagu di link ke wikipedia bahasa Indonesia untuk istilah terkait
+- dari halaman index ada link ke halaman Facebook Anda
+- semua file disimpan dalam folder bernama "Tugas #1" dalam GitHub Anda
