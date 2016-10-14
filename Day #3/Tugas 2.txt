@@ -38,7 +38,7 @@ Ketentuan:
        dst.
 
 - tanpa format dan tanpa warna
-- tag yang dibolehkan: <h1> sampai <h6>, <ul> atau <ol> dan <li>, <a>..</a>
+- tag yang dibolehkan: <h1> sampai <h6>, <ul> atau <ol> dan <li>, <a>..</a>, <p>..</p>, <br>, dan <hr>
 - membuat link ke bagian halaman yang sama: <a href='#nama_tag'>..label..</a>
 - menandai target link dalam halaman yang sama: <a name='nama_tag'></a> (tanpa label)
 - upload ke GitHub resmi masing-masing (PWEB161_nomorinduk) dalam folder 'Latihan 2'
