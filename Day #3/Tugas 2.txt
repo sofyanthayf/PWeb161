@@ -1,0 +1,45 @@
+Tugas 2
+Tetap dengan koleksi MINIMAL 5 lagu anak
+Ketentuan:
+- dimasukkan dalam satu file HTML (beri nama index.html)
+- susunan:
+       Daftar Lagu
+       1. Judul Lagu 1
+       2. Judul Lagu 2
+       3. Judul Lagu 3
+       4. Judul Lagu 4
+       5. Judul Lagu 5
+
+
+       <gambar untuk lagu 1>
+       <Judul Lagu 1>
+       Isi/lirik lagu 1
+       ...
+       ...
+
+       -kembali ke atas-
+
+       <gambar untuk lagu 2>
+       <Judul Lagu 2>
+       Isi/lirik lagu 2
+       ...
+       ...
+
+       -kembali ke atas-
+
+       <gambar untuk lagu 3>
+       <Judul Lagu 3>
+       Isi/lirik lagu 3
+       ...
+       ...
+
+       -kembali ke atas-
+
+       dst.
+
+- tanpa format dan tanpa warna
+- tag yang dibolehkan: <h1> sampai <h6>, <ul> atau <ol> dan <li>, <a>..</a>
+- membuat link ke bagian halaman yang sama: <a href='#nama_tag'>..label..</a>
+- menandai target link dalam halaman yang sama: <a name='nama_tag'></a> (tanpa label)
+- upload ke GitHub resmi masing-masing (PWEB161_nomorinduk) dalam folder 'Latihan 2'
+- pastikan bisa ditayangkan (lokal atau GitHub preview) pada awal praktikum, Kamis 20/10/16
