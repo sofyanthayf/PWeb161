@@ -1,0 +1,19 @@
+Lanjutan Tugas 2
+
+Tugas 2
+  -+-- css
+   |   |-- style.css
+   |
+   |-- images
+   |
+   index.html
+   index2.html
+   score02_-3.txt
+
+
+- Silahkan mencoba semua kemungkinan stylesheet untuk memperkaya tampilan
+- Semua definisi style dilakukan dalam file style.css
+- perubahan pada file index2.html hanya penambahan definisi .class dan/atau #id
+- Belum diizinkan menggunakan script (JS/JQuery)
+
+** Perhatikan pemanfaatan .class yang dapat digunakan berulang kali 

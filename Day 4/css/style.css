@@ -1,0 +1,25 @@
+body
+{
+	background-color: #ddee00;
+}
+
+img
+{
+	width: 400px;
+}
+
+h1
+{
+	color: #ff0000;
+	font-weight: bold;
+	font-size: 48px;
+	font-family: Verdana;
+}
+
+.judulutama
+{
+	color: #ff00ff;
+	font-weight: bold;
+	font-size: 36px;
+	font-family: Verdana;
+}
