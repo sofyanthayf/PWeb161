@@ -1,0 +1,10 @@
+Day #5  27/10/16
+
+- Buat folder baru bernama Tugas3
+- buat sub-folder css 
+- copy index.html dari Tugas2
+- copy juga folder images
+- buat file style (.CSS) baru
+- atur layout halaman index.html serapi mungkin dengan menggunakan <DIV> dan mengoptimalkan penggunaan .class
+- nilai plus jika penataan layout dibuat DINAMIS dan RESPONSIF
+- BELUM DIIZINKAN menggunaan JavaScript atau JQuery

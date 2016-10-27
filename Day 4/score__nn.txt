@@ -1,0 +1,16 @@
+20/10/16
+--------
++..
++..
+-..
+-..
+
+
+27/10/16
+--------
++10 untuk tugas dikerjakan
+-1 untuk setiap penggunaan nama warna (red, yellow, dll..) dalam file CSS
+-5 untuk setiap elemen <DIV> dan <SPAN>
++5 untuk setiap selector yang lebih dari 5 baris
+-2 untuk setiap kode berulang 
++2 untuk setiap pemanggilan class yang sama dalam HTML
