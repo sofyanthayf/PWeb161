@@ -1,0 +1,4 @@
++20 untuk setiap selector yang lebih dari 5 properties
++8 untuk setiap .class ke -5 sampai .class ke -10
++3 untuk tampilan menu lagu yang unik (bukan link biasa)
+-5 untuk tampilan yang rusak
