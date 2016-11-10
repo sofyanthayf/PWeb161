@@ -1,0 +1,37 @@
+TUGAS MIDTEST
+
+Buat desain website satu UKM yang Anda ikuti dengan ketentuan:
+
+- Manyajikan informasi minimal: 
+   1. Tentang UKM, Visi dan Misi
+   2. Organisasi dan Pengurus
+   3. Informasi Kegiatan (minimal contoh 3 kegiatan)
+
+- Menyediakan minimal 2 formulir 
+   1. Formulir registrasi anggota
+   2. Formulir lain yang dianggap perlu (bebas)
+
+- Desain hanya boleh menggunakan Bootstrap dengan theme bawaannya (http://getbootstrap.com/getting-started/#examples **) yang dikembangkan dan dimodifikasi dengan kreasi sendiri sesuai tema UKM masing-masing
+
+- Desain harus menampilkan website UKM yang rapi, menarik, serta pengelompokan informasi dan navigasi yang jelas
+
+- Tidak dibolehkan menggunakan gambar, foto, clip-art yang bukan buatan sendiri dalam desain, kecuali: 
+	1. foto/gambar/clip-art milik UKM
+	2. foto/gambar/clip-art milik STMIK KHARISMA
+	3. foto/gambar/clip-art milik Sofyan Thayf 
+	4. Glyphicon atau font-awesome
+
+- Manfaatkan CSS, JavaScript dan JQuery se-optimal mungkin
+
+- Wajib memperhatikan konsistensi tampilan halaman
+
+- Wajib menyediakan link ke:
+	1. Website STMIK KHARISMA (http://kharisma.ac.id)
+	2. Facebook Fan Page UKM jika ada, jika tidak ada ganti dengan link ke Fan Page STMIK KHARISMA (https://www.facebook.com/stmikkharismamks)
+
+- Batas akhir upload tugas ke GitHub masing-masing adalah hari RABU tanggal 23/11/16 pk 23:59:59
+
+- website disimpan dalam folder tugas Mid yang diberi nama: mid_ukm/
+
+
+** download Bootstrap versi source, didalamnya tersedia semua template theme bawaan

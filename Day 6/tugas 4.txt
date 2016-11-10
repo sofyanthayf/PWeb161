@@ -1,0 +1,5 @@
+Download Bootstrap Template: http://getbootstrap.com
+Petunjuk Penggunaan, baca di:
+- Getting Started
+- Components
+Bootstrap Theme siap pakai download pada http://startbootstrap.com

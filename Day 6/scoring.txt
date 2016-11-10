@@ -1,0 +1,10 @@
+Theme: 
+1. ..... (http://..........)
+2. ..... (http://..........)
+
++10 untuk tugas yang di-commit terakhir selambatnya tanggal 09/11/16 23:59:59
++2 untuk setiap commit setelah commit pertama sebelum tanggal 09/11/16 23:59:59
++10 untuk modifikasi template standar bootstrap tanpa theme
++2 untuk setiap selector theme yang di-override
++3 untuk setiap class selector yang dibuat sendiri (nama baru, bukan override)
++2 untuk setiap glyphicon atau font-awesome baru yang tidak ada di theme asli

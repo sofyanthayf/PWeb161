@@ -1,0 +1,6 @@
++10 untuk tugas selesai (sudah sync ke GitHub per tanggal 02/11/16 23:59pm)
++5  untuk setiap selector yang lebih dari 5 properties
++2 untuk setiap .class ke-5 sampai .class ke-10
+-1 untuk setiap .class ke-11 dst.
++3 untuk tampilan menu lagu yang unik (bukan link biasa) 
+-5 untuk tampilan yang rusak saat window dikecilkan (rusak= gambar numpuk, gambar terpotong, menu tertutup, gambar/text jadi terlalu kecil, area backgroun jadi terlalu luas, dsm.)
