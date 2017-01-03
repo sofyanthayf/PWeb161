@@ -6,8 +6,9 @@
 
             <div class="form-group input-group">
                 <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                <input type="text" class="form-control" placeholder="Username" name="user">
+                <input type="text" class="form-control" placeholder="Username" name="user" id="user" required="required">
             </div>
+            <p id="warning_user_name"></p>
 
             <div class="form-group input-group">
                 <span class="input-group-addon"><i class="fa fa-user"></i></span>
@@ -16,8 +17,9 @@
 
             <div class="form-group input-group">
                 <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
-                <input type="text" class="form-control" placeholder="Email Anda" name="email">
+                <input type="email" class="form-control" placeholder="Email Anda" name="email" id="email" required="required">
             </div>
+            <p id="warningemail"></p>
 
             <div class="form-group input-group">
                 <span class="input-group-addon"><i class="fa fa-lock"></i></span>

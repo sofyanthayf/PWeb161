@@ -3,7 +3,7 @@
 
         </div>
         <!-- /#page-wrapper -->
-        
+
     </div>
     <!-- /#wrapper -->
 
@@ -18,6 +18,7 @@
     <script src="<?= base_url()?>assets/js/plugins/morris/morris.min.js"></script>
     <script src="<?= base_url()?>assets/js/plugins/morris/morris-data.js"></script>
 
+    <script src="<?= base_url()?>assets/js/ajax.js"></script>
 </body>
 
 </html>

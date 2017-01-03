@@ -11,6 +11,9 @@ $route['user/reg'] = 'user/formRegister';
 $route['user/register'] = 'user/register';
 $route['user/(:any)'] = 'user/data/$1';  /* $1 = id user; */
 
+/** AJAX  **/
+$route['ajax/cekuser'] = 'ajax/cekusername';
+$route['ajax/cekemail'] = 'ajax/cekemail';
 
 
 $route['404_override'] = '';
